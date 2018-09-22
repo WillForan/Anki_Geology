@@ -1,0 +1,1298 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "e6ec0e90-bebc-11e8-9554-4c809377fd26",
+    "deck_config_uuid": "6a35b50c-b69e-11e8-b2dd-002264a4aa39",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": false,
+            "crowdanki_uuid": "6a35b50c-b69e-11e8-b2dd-002264a4aa39",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "Please see the <a href='https://ankiweb.net/shared/info/1213228868'>shared deck page</a> for more info.",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "Screen Shot 2018-03-12 at 12.06.04 PM.png",
+        "Screen Shot 2018-03-12 at 12.05.15 PM.png",
+        "Screen Shot 2018-03-12 at 12.05.34 PM.png",
+        "paste-a44d5617f1a9386d8a126df370a48c1391312ee4.jpg",
+        "Screen Shot 2018-03-12 at 12.06.36 PM.png",
+        "paste-be113782643b9533eba84fab83840795cc5f3d0e.jpg",
+        "Screen Shot 2018-03-12 at 12.04.35 PM.png",
+        "Screen Shot 2018-03-12 at 12.06.30 PM.png",
+        "Screen Shot 2018-03-12 at 1.26.35 PM.png",
+        "Screen Shot 2018-03-12 at 12.06.23 PM.png",
+        "Screen Shot 2018-03-10 at 3.58.34 PM.png",
+        "Screen Shot 2018-03-12 at 12.04.49 PM.png",
+        "Screen Shot 2018-03-12 at 12.07.14 PM.png",
+        "Screen Shot 2018-03-10 at 3.58.48 PM.png",
+        "Screen Shot 2018-03-12 at 12.05.50 PM.png",
+        "Screen Shot 2018-03-12 at 12.07.51 PM.png",
+        "Screen Shot 2018-03-12 at 12.08.01 PM.png",
+        "Screen Shot 2018-03-12 at 12.07.42 PM.png",
+        "Screen Shot 2018-03-12 at 12.07.01 PM.png",
+        "Screen Shot 2018-03-12 at 12.04.21 PM.png",
+        "Screen Shot 2018-03-12 at 12.04.27 PM.png",
+        "Screen Shot 2018-03-12 at 12.07.34 PM.png",
+        "Screen Shot 2018-03-12 at 12.05.45 PM.png",
+        "Screen Shot 2018-03-12 at 12.06.46 PM.png",
+        "Screen Shot 2018-03-10 at 4.14.13 PM.png",
+        "Screen Shot 2018-03-12 at 12.04.42 PM.png",
+        "Screen Shot 2018-03-12 at 1.21.08 PM.png",
+        "Screen Shot 2018-03-12 at 12.06.41 PM.png",
+        "Screen Shot 2018-03-12 at 12.06.14 PM.png",
+        "Screen Shot 2018-03-12 at 12.05.28 PM.png"
+    ],
+    "name": "home::Geology",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic-9d3fc",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How old is the earth?",
+                "4.5 Billion Years Old"
+            ],
+            "flags": 0,
+            "guid": "uo`eF!0:)o",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How old is plant life?",
+                "2.5 Billion"
+            ],
+            "flags": 0,
+            "guid": "z:Iknj9HG=",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How old is animal life?",
+                "600 Million"
+            ],
+            "flags": 0,
+            "guid": "nhNO[IEHOJ",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are rocks dated?",
+                "By using the radioactive half life."
+            ],
+            "flags": 0,
+            "guid": "zCSexKf9.",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a parent atom?",
+                "The original atom from which radioactive decay occurs."
+            ],
+            "flags": 0,
+            "guid": "mc9o<ozT5$",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the daughter atom?",
+                "The atom which is a result of radioactive decay."
+            ],
+            "flags": 0,
+            "guid": "t47Iy):JX%",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "In what layers is the earth structured?",
+                "Crust - Mantle - Outer Core - Inner Core"
+            ],
+            "flags": 0,
+            "guid": "nJ-nN4j4fz",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the average density of the earth?",
+                "5.5 g/cm^3"
+            ],
+            "flags": 0,
+            "guid": "fg[q~O4pQA",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the two most abundant rock types in our planet?",
+                "Granite and Basalt."
+            ],
+            "flags": 0,
+            "guid": "w%XV~?+w?l",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What part of the earth is the most dense?",
+                "The innermost core."
+            ],
+            "flags": 0,
+            "guid": "lA%3]Ic*o*",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three earth systems?",
+                "Climatics, Geodynamics, Plate Tectonics"
+            ],
+            "flags": 0,
+            "guid": "fT@zi>9)u~",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the climate earth system deal with?&nbsp;",
+                "The earth's atmosphere and weather."
+            ],
+            "flags": 0,
+            "guid": "z]:&6bwJ]~",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the geodynamic earth system pertain to?",
+                "The earth's magnetic poles and magnetic system."
+            ],
+            "flags": 0,
+            "guid": "yXs0~~f}+!",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does the plate tectonic system refer to?",
+                "The movement of the earth's plates."
+            ],
+            "flags": 0,
+            "guid": "QN-0I%2P(w",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is continental drift?",
+                "When large masses move over time."
+            ],
+            "flags": 0,
+            "guid": "PgVUDiv#+",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What provides the evidence for continental drift?",
+                "Tropical fossils found in arctic areas."
+            ],
+            "flags": 0,
+            "guid": "Ja.T;9QM+0",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three plate boundary types?",
+                "Divergent, Convergent, Transform Fault."
+            ],
+            "flags": 0,
+            "guid": "P$1+*H`WfH",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does transform fault refer to?&nbsp;",
+                "When two tectonic plates slide past each other."
+            ],
+            "flags": 0,
+            "guid": "l1&|^<E8W.",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is a divergent boundary?",
+                "When two tectonic plates silde outward and away from each other increasing the landmass inbetween."
+            ],
+            "flags": 0,
+            "guid": "BB$gz;s4~c",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Describe a convergent boundary.",
+                "When two tectonic plates converge and one slides beneath the other."
+            ],
+            "flags": 0,
+            "guid": "r,.dS2UN(I",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three main categories of rocks?",
+                "Igneous, Metamorphic, Sedimentary"
+            ],
+            "flags": 0,
+            "guid": "zP^0p8/-(,",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are igneous rocks formed?",
+                "By the cooling of liquid rock either above or below the earth's surface."
+            ],
+            "flags": 0,
+            "guid": "gC/zQ(h(ye",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is liquid rock called when it is beneath the earth's surface?",
+                "Magma"
+            ],
+            "flags": 0,
+            "guid": "A?2nZ[gJ_^",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is liquid rock called when it is above the earth's surface?",
+                "Lava"
+            ],
+            "flags": 0,
+            "guid": "ML1~lAyhiy",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the two categories of igneous rock?",
+                "Intrusive and Extrusive"
+            ],
+            "flags": 0,
+            "guid": "taRE4{H=ID",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are extrusive igneous rocks formed?",
+                "By the cooling of lava, above the earth's surface."
+            ],
+            "flags": 0,
+            "guid": "yh<W8V..36",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are intrusive igneous rocks formed?",
+                "By the cooling or crystilization of magma beneath the earth's surface."
+            ],
+            "flags": 0,
+            "guid": "ow:OF3Jq0h",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do felsic rocks contain?",
+                "Feldspar and silica."
+            ],
+            "flags": 0,
+            "guid": "RfR}GG=gIB",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What colour are felsic rocks?",
+                "Lighter"
+            ],
+            "flags": 0,
+            "guid": "k2BE#zUCKo",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do felsic rocks lack?",
+                "Magnesium and iron."
+            ],
+            "flags": 0,
+            "guid": "J+*T[/C|=x",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do mafic rocks have plenty of?",
+                "Magnesium and iron (ferric)"
+            ],
+            "flags": 0,
+            "guid": "m]2Gmt7Ix/",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What colour are mafic rocks?",
+                "Darker"
+            ],
+            "flags": 0,
+            "guid": "vS@(]/d%aV",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Mafic (Mg or Fe) reative formation temps",
+                "Higher temps"
+            ],
+            "flags": 0,
+            "guid": "v!-K[d&sW+",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are intermediate rocks?",
+                "Rocks inbetween mafic and felsic"
+            ],
+            "flags": 0,
+            "guid": "w:U@/;f&eA",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is this rock?<img src=\"Screen Shot 2018-03-10 at 3.58.34 PM.png\" />",
+                "Granite"
+            ],
+            "flags": 0,
+            "guid": "N%f36Vv#!Z",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is this rock?<img src=\"Screen Shot 2018-03-10 at 3.58.48 PM.png\" />",
+                "Gabbro"
+            ],
+            "flags": 0,
+            "guid": "d0@H!k^g$L",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Write out the Felsic vs. Mafic and Intrusive vs. Extrusive properties chart.",
+                "<img src=\"Screen Shot 2018-03-10 at 4.14.13 PM.png\" />"
+            ],
+            "flags": 0,
+            "guid": "rlu%A=]a#Z",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are sedimentary rocks formed?",
+                "By chemical and physical weathering and the desposition of minerals."
+            ],
+            "flags": 0,
+            "guid": "bnG~Vc?`&f",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is another name for rock formation?",
+                "Lithification"
+            ],
+            "flags": 0,
+            "guid": "DPJ,%|/.r&",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name the stages of rock formation",
+                "Weathering, erosion, transportation, deopistion, burial, diagenesis"
+            ],
+            "flags": 0,
+            "guid": "Jivn1q|;Y-",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are clasts categorized?",
+                "by grain size."
+            ],
+            "flags": 0,
+            "guid": "gsEk(OxUjI",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What causes chemical sediment formation?",
+                "Precipitation containing salt and other forms of chemical reactions such as oxidation."
+            ],
+            "flags": 0,
+            "guid": "p:w/5tYm]<",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Carbonate deposits refer to?",
+                "Soil deposits secreated by life forms."
+            ],
+            "flags": 0,
+            "guid": "v6CF9!>0[D",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name two carbonate desposits.",
+                "Limestone and dolostone."
+            ],
+            "flags": 0,
+            "guid": "L6S6z$%_tv",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is coquina?",
+                "A conglomerate fossiliferous rock containing shell type fossils."
+            ],
+            "flags": 0,
+            "guid": "f3$]}a-%wJ",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is amber?",
+                "Fossilized tree sap."
+            ],
+            "flags": 0,
+            "guid": "O`Tu|KA|j9",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are metamorhpic rocks?",
+                "Rocks formed by intense pressures and heat below the earth's crust."
+            ],
+            "flags": 0,
+            "guid": "wx?1bMHq5n",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does foliated mean?",
+                "It is refereing to layers formed by metamorhpisis."
+            ],
+            "flags": 0,
+            "guid": "hP6WKyb,Z{",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are soil desposits called when formed by ice?",
+                "Gacial."
+            ],
+            "flags": 0,
+            "guid": "d(fH{*B7T.",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are soil deposits refered to when formed by water?",
+                "Alluvial"
+            ],
+            "flags": 0,
+            "guid": "i_g{=oK/z8",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are soil deposits reffered to when formed by wind?",
+                "Aeolian"
+            ],
+            "flags": 0,
+            "guid": "Go59SDh^XQ",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are soil deposits reffered to when deposited by gravity?",
+                "Colluvial"
+            ],
+            "flags": 0,
+            "guid": "lGbgN]Wd@G",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are the three main classifications of rock types?",
+                "Igneous, Metamorphic, Sedimentary"
+            ],
+            "flags": 0,
+            "guid": "L(G#ZMTq_n",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is igneous rock formed?",
+                "Through the crystallization of molten rock."
+            ],
+            "flags": 0,
+            "guid": "qu2j#BsQoe",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is liquid rock called beneath the earth's surface?",
+                "Magma"
+            ],
+            "flags": 0,
+            "guid": "OIWYmu*GYN",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do the terms extrusive and intrusive refer to in geological terms?",
+                "Whether the cooling of an igneous rock occured above (Lava) or beneath (Magma) the earth's surface."
+            ],
+            "flags": 0,
+            "guid": "Aglhttded.",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How is extrusive igneous rock different from intrusive igneous rock?",
+                "Extrusive cools above surface, more rapidly than intrusive rocks."
+            ],
+            "flags": 0,
+            "guid": "E(8epJFfbd",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What does rock weathering form?",
+                "Clasts"
+            ],
+            "flags": 0,
+            "guid": "RiW;gXHH^@",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What particle size range is of clasts?",
+                "Clay to Boulders"
+            ],
+            "flags": 0,
+            "guid": "o$-!d9Yuj:",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What is the main way chemical weathering occurs?",
+                "Through rainfall containing salt."
+            ],
+            "flags": 0,
+            "guid": "d^pJ;&)RDo",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are carbonate sediments formed?",
+                "When organisms secrete minerals"
+            ],
+            "flags": 0,
+            "guid": "d}wc`F|~J5",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What do carbonate sediments form?",
+                "Limestone and Dolostone"
+            ],
+            "flags": 0,
+            "guid": "L#bw1E9(%T",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are organic sediments and what is their significance?",
+                "Organic sediments form from the deposition of dead life and they form fossil fuels."
+            ],
+            "flags": 0,
+            "guid": "s[&K#Mu+_*",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Name coal's stages of formation.",
+                "<div>Peat - Lignite - Bituminous &nbsp;- Anthracite<br></div><div><img src=\"paste-a44d5617f1a9386d8a126df370a48c1391312ee4.jpg\"><br></div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "I2R(WpHyR3",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are metamorphic rocks formed?",
+                "Through extreme tempatures and pressures."
+            ],
+            "flags": 0,
+            "guid": "g$y7/^iai}",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-10 at 3.58.34 PM.png\" />",
+                "Granite"
+            ],
+            "flags": 0,
+            "guid": "MhDsPgdph3",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-10 at 3.58.48 PM.png\" />",
+                "Gabbro"
+            ],
+            "flags": 0,
+            "guid": "r_;/^9Vv.`",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.04.21 PM.png\" />",
+                "Rhyolite"
+            ],
+            "flags": 0,
+            "guid": "n_!YUCL)^U",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.04.27 PM.png\" />",
+                "Basalt"
+            ],
+            "flags": 0,
+            "guid": "nUKr/--t/z",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.04.35 PM.png\" />",
+                "Obsidian"
+            ],
+            "flags": 0,
+            "guid": "l($a)WGA);",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.04.42 PM.png\" />",
+                "Pumice"
+            ],
+            "flags": 0,
+            "guid": "QiXZ:&g!jC",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<img src=\"Screen Shot 2018-03-12 at 12.04.49 PM.png\" />Identify this rock:",
+                "Scoria"
+            ],
+            "flags": 0,
+            "guid": "y)vhrH4%P!",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.05.15 PM.png\" />",
+                "Argillaceous Shale (Clayey)"
+            ],
+            "flags": 0,
+            "guid": "eloMr^9Z%?",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.05.28 PM.png\" />",
+                "Calcareous Shale"
+            ],
+            "flags": 0,
+            "guid": "w&b/T6;%?M",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 1.21.08 PM.png\" />",
+                "Carbonaceous Shale (Coal)"
+            ],
+            "flags": 0,
+            "guid": "iYh?I7GU?#",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.05.34 PM.png\" />",
+                "Argillaceous Sandstone"
+            ],
+            "flags": 0,
+            "guid": "rB](VU[]>p",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.05.45 PM.png\" />",
+                "Sandstone (Banded)"
+            ],
+            "flags": 0,
+            "guid": "I[$Sl6nKa)",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.05.50 PM.png\" />",
+                "Conglomerate"
+            ],
+            "flags": 0,
+            "guid": "J)bBB7|W.1",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.06.04 PM.png\" />",
+                "Gypsum"
+            ],
+            "flags": 0,
+            "guid": "n`XZw>xLNc",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.06.14 PM.png\" />",
+                "Chalk"
+            ],
+            "flags": 0,
+            "guid": "IR6_0zM6ow",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.06.23 PM.png\" />",
+                "Fossiliferous Limestone"
+            ],
+            "flags": 0,
+            "guid": "uXJt2z2=Vs",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.06.30 PM.png\" />",
+                "Anthracite"
+            ],
+            "flags": 0,
+            "guid": "F82knyuoR_",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.06.36 PM.png\" />",
+                "Peat"
+            ],
+            "flags": 0,
+            "guid": "i<~1u%.A-q",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.06.41 PM.png\" />",
+                "Bituminous"
+            ],
+            "flags": 0,
+            "guid": "G!f$6_=iC?",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.06.46 PM.png\" />",
+                "Amber"
+            ],
+            "flags": 0,
+            "guid": "el-:asg,xS",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.07.01 PM.png\" />",
+                "Slate Metamorphosed Shale"
+            ],
+            "flags": 0,
+            "guid": "z?{yn4?F))",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 1.26.35 PM.png\" />",
+                "Shist"
+            ],
+            "flags": 0,
+            "guid": "k4(K?n-8l}",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.07.14 PM.png\" />",
+                "Gneiss"
+            ],
+            "flags": 0,
+            "guid": "PxsNcr-eBb",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.07.34 PM.png\" />",
+                "Quartzite"
+            ],
+            "flags": 0,
+            "guid": "JX+1]O9Hnr",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.07.42 PM.png\" />",
+                "MARBLE"
+            ],
+            "flags": 0,
+            "guid": "pku7s($9`&",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Identify this rock:<img src=\"Screen Shot 2018-03-12 at 12.07.51 PM.png\" />",
+                "Anthracite - Metamorhpised Bituminous"
+            ],
+            "flags": 0,
+            "guid": "n:@(wQNr/U",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Draw out the rock cycle.",
+                "<img src=\"Screen Shot 2018-03-12 at 12.08.01 PM.png\" />"
+            ],
+            "flags": 0,
+            "guid": "kKPZw[TqB-",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "How are Igneous rocks classified?",
+                "By texture and mineral content."
+            ],
+            "flags": 0,
+            "guid": "dT11@|@7@+",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Into what categories are sedimentary rocks classified?",
+                "Clastic, chemical, and biological."
+            ],
+            "flags": 0,
+            "guid": "tPlpq08Y2y",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "By what categories are metamorphic rocks serperated?",
+                "Foliated and Non-foliated<div><img src=\"paste-be113782643b9533eba84fab83840795cc5f3d0e.jpg\"><br></div><div><br></div><div>https://socratic.org/questions/how-is-a-foliated-metamorphic-rock-different-from-a-non-foliated-metamorphic-roc<br></div>"
+            ],
+            "flags": 0,
+            "guid": "OnezSM!(v^",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "What are residual soils?",
+                "Soils which remain within the general vicinity of the parent rock."
+            ],
+            "flags": 0,
+            "guid": "G~Wle<GNf~",
+            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "tags": []
+        }
+    ]
+}
