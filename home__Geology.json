@@ -163,6 +163,7 @@
         "ff4b7d5bfbdf486f91c143166c57e832-oa-8-A.svg",
         "d573f5a03b5a4f898ec46367ef432979-oa-9-A.svg"
     ],
+    "mid": "1498760345860",
     "name": "home::Geology",
     "note_models": [
         {
@@ -212,6 +213,74 @@
                     "name": "Card 1",
                     "ord": 0,
                     "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card)",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
                 }
             ],
             "type": 0,
@@ -426,12 +495,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is the daughter atom?",
-                "The atom which is a result of radioactive decay."
+                "(def) daughter atom",
+                "(def) The atom which is a result of radioactive decay."
             ],
             "flags": 0,
             "guid": "t47Iy):JX%",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -553,12 +622,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is continental drift?",
-                "When large masses move over time."
+                "(def) continental drift",
+                "(def) large masses move over time"
             ],
             "flags": 0,
             "guid": "PgVUDiv#+",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -624,11 +693,11 @@
             "data": "",
             "fields": [
                 "(def) convergent boundary",
-                "When two tectonic plates converge and one slides beneath the other<div><img src=\"paste-4d807a706bb3ba519c54eac8b3b4e0fdc72cf5ed.jpg\"><br></div>"
+                "(def) When two tectonic plates converge and one slides beneath the other<div><img src=\"paste-4d807a706bb3ba519c54eac8b3b4e0fdc72cf5ed.jpg\"><br></div>"
             ],
             "flags": 0,
             "guid": "r,.dS2UN(I",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -651,12 +720,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is liquid rock called when it is <b>beneath</b> the earth's surface?",
-                "Magma"
+                "(def) liquid rock&nbsp;<b>beneath</b> the earth's surface",
+                "(def) Magma"
             ],
             "flags": 0,
             "guid": "A?2nZ[gJ_^",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -665,12 +734,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is liquid rock called when it is <b>above</b> the earth's surface?",
-                "Lava"
+                "(def) liquid rock&nbsp;<b>above</b> the earth's surface",
+                "(def) Lava"
             ],
             "flags": 0,
             "guid": "ML1~lAyhiy",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -806,11 +875,11 @@
             "data": "",
             "fields": [
                 "(def) intermediate rocks",
-                "Rocks inbetween mafic and felsic"
+                "(def) Rocks inbetween mafic and felsic"
             ],
             "flags": 0,
             "guid": "w:U@/;f&eA",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -861,12 +930,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is another name for rock formation?",
-                "Lithification"
+                "(def) rock formation",
+                "(def) Lithification"
             ],
             "flags": 0,
             "guid": "DPJ,%|/.r&",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -922,7 +991,7 @@
             ],
             "flags": 0,
             "guid": "v6CF9!>0[D",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -945,12 +1014,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is coquina?",
-                "A conglomerate fossiliferous rock containing shell type fossils."
+                "(def) coquina",
+                "(def) A conglomerate fossiliferous rock containing shell type fossils."
             ],
             "flags": 0,
             "guid": "f3$]}a-%wJ",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -978,7 +1047,7 @@
             ],
             "flags": 0,
             "guid": "wx?1bMHq5n",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -987,12 +1056,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What does foliated mean?",
-                "layers formed by metamorhpisis."
+                "(def) foliated",
+                "(def) layers formed by metamorhpisis."
             ],
             "flags": 0,
             "guid": "hP6WKyb,Z{",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -1001,12 +1070,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What are soil desposits called when formed by ice?",
-                "Gacial."
+                "(def) soil desposits formed by ice",
+                "(def) Gacial"
             ],
             "flags": 0,
             "guid": "d(fH{*B7T.",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -1015,12 +1084,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What are soil deposits refered to when formed by water?",
-                "Alluvial"
+                "(def) soil deposits refered to when formed by water",
+                "(def) Alluvial"
             ],
             "flags": 0,
             "guid": "i_g{=oK/z8",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -1029,12 +1098,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What are soil deposits reffered to when formed by wind?",
-                "Aeolian"
+                "(def) soil deposits formed by wind",
+                "(def) Aeolian"
             ],
             "flags": 0,
             "guid": "Go59SDh^XQ",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -1043,12 +1112,12 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What are soil deposits reffered to when deposited by gravity?",
-                "Colluvial"
+                "(def) What are soil deposits reffered to when deposited by gravity?",
+                "(def) Colluvial"
             ],
             "flags": 0,
             "guid": "lGbgN]Wd@G",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
@@ -1085,28 +1154,14 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What is liquid rock called beneath the earth's surface?",
-                "Magma"
-            ],
-            "flags": 0,
-            "guid": "OIWYmu*GYN",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
-            "tags": [
-                "definition"
-            ]
-        },
-        {
-            "__type__": "Note",
-            "data": "",
-            "fields": [
-                "What do the terms extrusive and intrusive refer to in geological terms?",
+                "extrusive vs intrusive",
                 "Whether the cooling of an igneous rock occured above (Lava) or beneath (Magma) the earth's surface."
             ],
             "flags": 0,
             "guid": "Aglhttded.",
             "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
             "tags": [
-                "definition"
+                "compare"
             ]
         },
         {
@@ -1127,7 +1182,7 @@
             "__type__": "Note",
             "data": "",
             "fields": [
-                "What does rock weathering form?",
+                "rock weathering forms",
                 "Clasts"
             ],
             "flags": 0,
@@ -1662,7 +1717,7 @@
             ],
             "flags": 0,
             "guid": "G~Wle<GNf~",
-            "note_model_uuid": "e6ece50e-bebc-11e8-9554-4c809377fd26",
+            "note_model_uuid": "69673a90-becf-11e8-9554-4c809377fd26",
             "tags": [
                 "definition"
             ]
